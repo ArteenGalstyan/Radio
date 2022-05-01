@@ -1,0 +1,21 @@
+﻿Radio,,,,
+Component,MPN,Value,Quantity,DataSheet
+MCU transceiver,CC1110F32RHHR,,1,https://datasheet.lcsc.com/szlcsc/1912111437_Texas-Instruments-CC1110F32RHHR_C465734.pdf
+Balun,0433BM15A0001E,430-435MHz,1,https://www.johansontechnology.com/datasheets/0433BM15A0001/0433BM15A0001.pdf
+RF Switch,PE4259,,1,https://www.psemi.com/pdf/datasheets/pe4259ds.pdf
+RF Front-end,RFFM6406,408-455MHz,1,https://www.qorvo.com/products/p/RFFM6406
+Saw Filter,SF2446E,435MHz,1,https://www.rfmi.co/pdf/Datasheet/sf2446e.pdf
+Crystal Oscillator,FOX924-27,27MHz,1,https://media.digikey.com/pdf/Data%20Sheets/Fox%20Electronics%20PDFs/FOX924.pdf
+PMIC,TLV803S,,1,https://www.ti.com/lit/ds/symlink/tlv803e.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1639175397333&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv803e
+Antenna,732511150,ANT,1,https://www.molex.com/pdm_docs/sd/732511150_sd.pdf
+RES0402,,100,8,
+RES0402,,1k,7,
+RES0402,,3.3k,1,
+RES0402,,33k,1,
+RES0402,,5.6k,1,
+RES0402,,56k,1,
+CAP0402,,220pF,6,
+CAP0402,,1nF,2,
+CAP0402,,0.1uF,7,
+CAP0402,,1.0uF,4,
+L0402,LQW15AN27NH00D,27nH,2,http://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0050.pdf
