@@ -18,11 +18,11 @@ The radio is designed is to operate in the 432-438 MHz US amateur radio UHF band
 
 ### Block Diagram
 
-![Radio Block Diagram](Assets/Circuit%20Block%20Diagram%20-%20Radio.png)
+![Radio Block Diagram](Assets/PNG/Circuit%20Block%20Diagram%20-%20Radio.png)
 
 ### Circuit Diagram
 
-![Radio Circuit Diagram](Assets/Radio-Schematic-13-02.png)
+![Radio Circuit Diagram](Assets/PNG/Radio-Schematic-13-02.png)
 
 ### TODO
 
