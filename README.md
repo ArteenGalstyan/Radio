@@ -28,7 +28,6 @@ The radio is designed is to operate in the 432-438 MHz US amateur radio UHF band
 
 - [x] Block Diagram
 - [x] Circuit Schematic
-- [ ] Port to Altium Designer
 - [ ] 4-layer pcb layout
 - [ ] Firmware
 - [ ] Testing
